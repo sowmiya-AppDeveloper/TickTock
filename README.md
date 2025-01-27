@@ -19,7 +19,7 @@ Track timer progress and visualize it in real time.
 Track completed timers with their names and completion times.
 
 ## Installation
-1. git clone
+1. git clone https://github.com/sowmiya-AppDeveloper/TickTock.git
 2. cd TickTock
 3. npm i
 4. npm run restart
