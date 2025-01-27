@@ -1,0 +1,15 @@
+export const colors = {
+  baseBackground: '#000',
+  baseSecondary: '#03AD00',
+  black: '#000',
+  white: '#FFFFFF',
+  transparent: '#00000000',
+  transparentGrey: '#000000aa',
+  transparentLightGrey: '#00000033',
+  transparentWhite: '#FFFFFFaa',
+  grey: '#BFBFBF',
+  darkGrey: '#696969',
+  cardBag: '#171717',
+  skyBlue: '#4BD4FF',
+  red: '#FF0000',
+};
