@@ -17,3 +17,9 @@ Group timers by categories and perform bulk actions like starting, pausing, and 
 Track timer progress and visualize it in real time.
 ### History Tracking:
 Track completed timers with their names and completion times.
+
+## Installation
+1. git clone
+2. cd TickTock
+3. npm i
+4. npm run restart
