@@ -1,5 +1,6 @@
 {
   "buildFiles": [
+    "/home/bi1466/TickTock/node_modules/@react-native-async-storage/async-storage/android/build/generated/source/codegen/jni/CMakeLists.txt",
     "/home/bi1466/TickTock/node_modules/react-native-reanimated/android/build/generated/source/codegen/jni/CMakeLists.txt",
     "/home/bi1466/TickTock/node_modules/react-native-safe-area-context/android/src/main/jni/CMakeLists.txt",
     "/home/bi1466/TickTock/node_modules/react-native-screens/android/src/main/jni/CMakeLists.txt",
@@ -62,6 +63,11 @@
         "/home/bi1466/.gradle/caches/8.10.2/transforms/335e806144778f46a943d799acdead8b/transformed/react-android-0.76.1-release/prefab/modules/jsi/libs/android.armeabi-v7a/libjsi.so",
         "/home/bi1466/.gradle/caches/8.10.2/transforms/335e806144778f46a943d799acdead8b/transformed/react-android-0.76.1-release/prefab/modules/reactnative/libs/android.armeabi-v7a/libreactnative.so"
       ]
+    },
+    "react_codegen_rnasyncstorage::@1596841e19ec5b9eeffe": {
+      "artifactName": "react_codegen_rnasyncstorage",
+      "abi": "armeabi-v7a",
+      "runtimeFiles": []
     }
   }
 }

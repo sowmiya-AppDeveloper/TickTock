@@ -1,0 +1,6 @@
+/home/bi1466/Android/Sdk/cmake/3.22.1/bin/ninja \
+  -C \
+  /home/bi1466/TickTock/android/app/.cxx/RelWithDebInfo/p4g394j2/armeabi-v7a \
+  appmodules \
+  react_codegen_rnscreens \
+  react_codegen_safeareacontext

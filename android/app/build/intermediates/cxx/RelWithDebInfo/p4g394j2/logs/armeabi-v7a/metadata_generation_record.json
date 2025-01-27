@@ -1,0 +1,262 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 24 min SDK version: armeabi-v7a",
+    "file_": "/home/bi1466/TickTock/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON /home/bi1466/TickTock/android/app/.cxx/RelWithDebInfo/p4g394j2/armeabi-v7a/android_gradle_build.json due to:",
+    "file_": "/home/bi1466/TickTock/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "- a file changed",
+    "file_": "/home/bi1466/TickTock/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "  - /home/bi1466/TickTock/android/app/.cxx/RelWithDebInfo/p4g394j2/armeabi-v7a/build.ninja (LAST_MODIFIED_CHANGED)",
+    "file_": "/home/bi1466/TickTock/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "  - /home/bi1466/TickTock/android/app/.cxx/RelWithDebInfo/p4g394j2/armeabi-v7a/compile_commands.json (LAST_MODIFIED_CHANGED)",
+    "file_": "/home/bi1466/TickTock/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "  - /home/bi1466/TickTock/node_modules/react-native-reanimated/android/build/generated/source/codegen/jni/CMakeLists.txt (LAST_MODIFIED_CHANGED)",
+    "file_": "/home/bi1466/TickTock/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "  - /home/bi1466/TickTock/node_modules/react-native-safe-area-context/android/src/main/jni/CMakeLists.txt (LAST_MODIFIED_CHANGED)",
+    "file_": "/home/bi1466/TickTock/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "  - /home/bi1466/TickTock/node_modules/react-native-screens/android/src/main/jni/CMakeLists.txt (LAST_MODIFIED_CHANGED)",
+    "file_": "/home/bi1466/TickTock/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "  - /home/bi1466/TickTock/node_modules/react-native-vector-icons/android/build/generated/source/codegen/jni/CMakeLists.txt (LAST_MODIFIED_CHANGED)",
+    "file_": "/home/bi1466/TickTock/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "  - /home/bi1466/TickTock/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt (LAST_MODIFIED_CHANGED)",
+    "file_": "/home/bi1466/TickTock/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "/usr/lib/jvm/java-17-openjdk-amd64/bin/java \\\n  --class-path \\\n  /home/bi1466/.gradle/caches/modules-2/files-2.1/com.google.prefab/cli/2.1.0/aa32fec809c44fa531f01dcfb739b5b3304d3050/cli-2.1.0-all.jar \\\n  com.google.prefab.cli.AppKt \\\n  --build-system \\\n  cmake \\\n  --platform \\\n  android \\\n  --abi \\\n  armeabi-v7a \\\n  --os-version \\\n  24 \\\n  --stl \\\n  c++_shared \\\n  --ndk-version \\\n  26 \\\n  --output \\\n  /tmp/agp-prefab-staging16062198665845382483/staged-cli-output \\\n  /home/bi1466/.gradle/caches/8.10.2/transforms/335e806144778f46a943d799acdead8b/transformed/react-android-0.76.1-release/prefab \\\n  /home/bi1466/TickTock/android/app/build/intermediates/cxx/refs/react-native-reanimated/t275p2h3 \\\n  /home/bi1466/.gradle/caches/8.10.2/transforms/461b16042a3fbc3d5214703f3c2d7ff2/transformed/hermes-android-0.76.1-release/prefab \\\n  /home/bi1466/.gradle/caches/8.10.2/transforms/eb4b98dea289284ca2b26e9265bd49ab/transformed/fbjni-0.6.0/prefab\n",
+    "file_": "/home/bi1466/TickTock/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "Received process result: 0",
+    "file_": "/home/bi1466/TickTock/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "keeping json folder \u0027/home/bi1466/TickTock/android/app/.cxx/RelWithDebInfo/p4g394j2/armeabi-v7a\u0027 but regenerating project",
+    "file_": "/home/bi1466/TickTock/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake /home/bi1466/Android/Sdk/cmake/3.22.1/bin/cmake \\\n  -H/home/bi1466/TickTock/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup \\\n  -DCMAKE_SYSTEM_NAME\u003dAndroid \\\n  -DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON \\\n  -DCMAKE_SYSTEM_VERSION\u003d24 \\\n  -DANDROID_PLATFORM\u003dandroid-24 \\\n  -DANDROID_ABI\u003darmeabi-v7a \\\n  -DCMAKE_ANDROID_ARCH_ABI\u003darmeabi-v7a \\\n  -DANDROID_NDK\u003d/home/bi1466/Android/Sdk/ndk/26.1.10909125 \\\n  -DCMAKE_ANDROID_NDK\u003d/home/bi1466/Android/Sdk/ndk/26.1.10909125 \\\n  -DCMAKE_TOOLCHAIN_FILE\u003d/home/bi1466/Android/Sdk/ndk/26.1.10909125/build/cmake/android.toolchain.cmake \\\n  -DCMAKE_MAKE_PROGRAM\u003d/home/bi1466/Android/Sdk/cmake/3.22.1/bin/ninja \\\n  -DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/home/bi1466/TickTock/android/app/build/intermediates/cxx/RelWithDebInfo/p4g394j2/obj/armeabi-v7a \\\n  -DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/home/bi1466/TickTock/android/app/build/intermediates/cxx/RelWithDebInfo/p4g394j2/obj/armeabi-v7a \\\n  -DCMAKE_BUILD_TYPE\u003dRelWithDebInfo \\\n  -DCMAKE_FIND_ROOT_PATH\u003d/home/bi1466/TickTock/android/app/.cxx/RelWithDebInfo/p4g394j2/prefab/armeabi-v7a/prefab \\\n  -B/home/bi1466/TickTock/android/app/.cxx/RelWithDebInfo/p4g394j2/armeabi-v7a \\\n  -GNinja \\\n  -DPROJECT_BUILD_DIR\u003d/home/bi1466/TickTock/android/app/build \\\n  -DREACT_ANDROID_DIR\u003d/home/bi1466/TickTock/node_modules/react-native/ReactAndroid \\\n  -DANDROID_STL\u003dc++_shared \\\n  -DANDROID_USE_LEGACY_TOOLCHAIN_FILE\u003dON\n",
+    "file_": "/home/bi1466/TickTock/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "/home/bi1466/Android/Sdk/cmake/3.22.1/bin/cmake \\\n  -H/home/bi1466/TickTock/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup \\\n  -DCMAKE_SYSTEM_NAME\u003dAndroid \\\n  -DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON \\\n  -DCMAKE_SYSTEM_VERSION\u003d24 \\\n  -DANDROID_PLATFORM\u003dandroid-24 \\\n  -DANDROID_ABI\u003darmeabi-v7a \\\n  -DCMAKE_ANDROID_ARCH_ABI\u003darmeabi-v7a \\\n  -DANDROID_NDK\u003d/home/bi1466/Android/Sdk/ndk/26.1.10909125 \\\n  -DCMAKE_ANDROID_NDK\u003d/home/bi1466/Android/Sdk/ndk/26.1.10909125 \\\n  -DCMAKE_TOOLCHAIN_FILE\u003d/home/bi1466/Android/Sdk/ndk/26.1.10909125/build/cmake/android.toolchain.cmake \\\n  -DCMAKE_MAKE_PROGRAM\u003d/home/bi1466/Android/Sdk/cmake/3.22.1/bin/ninja \\\n  -DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/home/bi1466/TickTock/android/app/build/intermediates/cxx/RelWithDebInfo/p4g394j2/obj/armeabi-v7a \\\n  -DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/home/bi1466/TickTock/android/app/build/intermediates/cxx/RelWithDebInfo/p4g394j2/obj/armeabi-v7a \\\n  -DCMAKE_BUILD_TYPE\u003dRelWithDebInfo \\\n  -DCMAKE_FIND_ROOT_PATH\u003d/home/bi1466/TickTock/android/app/.cxx/RelWithDebInfo/p4g394j2/prefab/armeabi-v7a/prefab \\\n  -B/home/bi1466/TickTock/android/app/.cxx/RelWithDebInfo/p4g394j2/armeabi-v7a \\\n  -GNinja \\\n  -DPROJECT_BUILD_DIR\u003d/home/bi1466/TickTock/android/app/build \\\n  -DREACT_ANDROID_DIR\u003d/home/bi1466/TickTock/node_modules/react-native/ReactAndroid \\\n  -DANDROID_STL\u003dc++_shared \\\n  -DANDROID_USE_LEGACY_TOOLCHAIN_FILE\u003dON\n",
+    "file_": "/home/bi1466/TickTock/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "Received process result: 0",
+    "file_": "/home/bi1466/TickTock/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "Exiting generation of /home/bi1466/TickTock/android/app/.cxx/RelWithDebInfo/p4g394j2/armeabi-v7a/compile_commands.json.bin normally",
+    "file_": "/home/bi1466/TickTock/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "done executing cmake",
+    "file_": "/home/bi1466/TickTock/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "hard linked /home/bi1466/TickTock/android/app/.cxx/RelWithDebInfo/p4g394j2/armeabi-v7a/compile_commands.json to /home/bi1466/TickTock/android/app/.cxx/tools/release/armeabi-v7a/compile_commands.json",
+    "file_": "/home/bi1466/TickTock/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "/home/bi1466/TickTock/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  }
+]
